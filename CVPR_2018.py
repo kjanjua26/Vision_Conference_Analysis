@@ -24,6 +24,8 @@ folder_path = '/Users/Janjua/Desktop/CVPR_Institute/'
 def parse_pdf(url):
 	title_list = []
 	author_lst = []
+	inst_list = []
+
 	fp = open(url, 'rb')
 	parser = PDFParser(fp)
 	doc = PDFDocument(parser)
@@ -34,14 +36,14 @@ def parse_pdf(url):
 	author_lst = map(lambda x:x.replace(',',''), author_lst)
 	title_list = map(lambda x:x.lower(), title_list)
 
-	def convert(fname):
+	def convert(fname, pages=None):
 	    output = StringIO()
 	    manager = PDFResourceManager()
 	    converter = TextConverter(manager, output, laparams=LAParams())
 	    interpreter = PDFPageInterpreter(manager, converter)
 
 	    infile = file(fname, 'rb')
-	    for page in PDFPage.get_pages(infile, 0): # get first page only
+	    for page in PDFPage.get_pages(infile, 0):
 	       interpreter.process_page(page)
 	       break
 	    infile.close()
@@ -53,21 +55,19 @@ def parse_pdf(url):
 	some_variable = convert(url) 
 	some_v = str(some_variable)
 	head, sep, tail = some_v.partition('Abstract')
-	try:
-		head, sep, tail = head.partition('@')
-		head, sep, tail = head.partition('{')
-	except:
-		head = head
 	head = ''.join(re.sub(r'\S*@\S*\s?', '', head).replace('\n', ' '))
 	head = re.sub(r'[^\x00-\x7f]',r'', head) 
 	head = head.lower()
 	head = re.sub(r'[0-9]+', '', head)
 	little_clean = [i for i in head.split() if i not in title_list]
+	little_clean = [i.replace(',','') for i in little_clean]
 	little_clean = [i for i in little_clean if i not in author_lst]
 	inst = ' '.join([x.upper() for x in little_clean])
+	inst, _, _ = inst.partition('{')
 	for i in (str(inst).split(',')):
-		if 'UNIVERSITY' in i or 'FACEBOOK' in i or 'GOOGLE' in i or 'SCHOOL' in i or 'CENTER' in i or 'INSTITUTE' in i or 'TECH' in i or 'COMPANY' in i or 'CENTRE' in i or 'RESEARCH' in i or 'GROUP' in i or 'DEPARTMENT' in i or 'LABS' in i or 'LAB' in i or 'INC' in i:
-			return i
+		if 'UNIVERSITY' in i or 'FACEBOOK' in i or 'GOOGLE' in i or 'SCHOOL' in i or 'CENTER' in i or 'INSTITUTE' in i or 'TECH' in i or 'COMPANY' in i or 'CENTRE' in i or 'RESEARCH' in i or 'GROUP' in i or 'DEPARTMENT' in i or 'LABS' in i or 'LAB' in i or 'INC' in i or 'COLLEGE' in i or 'ETH':
+			inst_list.append(i)
+	return ' '.join(inst_list)
 
 def get_pdf():
 	r = requests.get(url)
@@ -105,16 +105,16 @@ def enum_files():
 	wr_file.write('Title'+','+'Institution'+'\n')
 	for i in glob.glob(folder_path+"*.pdf"):
 		title = i.split('/')[-1].split('.')[0]
-		#parsed_info = str(parse_pdf(i)).replace('u','').replace('[', '').replace(']', '').replace("'", '')
+		title = title.replace('/', '')
+		title = title.replace(',', '')
 		parsed_info = parse_pdf(i)
-		print(parsed_info)
-		#parsed_info = re.sub('([A-Z])', r' \1', parsed_info)
-		#if 'Work' in parsed_info:
-		#	parsed_info.replace('Work', '')
-		#print(parsed_info)
-		wr_file.write(title+',')
-		wr_file.write(parsed_info)
-		wr_file.write('\n')
+		print(title, parsed_info)
+		try:
+			wr_file.write(title+',')
+			wr_file.write(parsed_info)
+			wr_file.write('\n')
+		except:
+			print("None Value: ", title)
 	wr_file.close()
 		
 enum_files()
