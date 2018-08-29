@@ -1,0 +1,441 @@
+Title,Institution
+Deep Depth Completion of a Single RGB-D Image,Princeton University Princeton University
+Mix and Match Networks: Encoder-Decoder Alignment for Zero-Pair Image Translation,Computer Vision Center Universitat Aut`Onoma Barcelona Barcelona Spain
+Learning Pose Specific Representations by Predicting Different Views,Specic Institute For Computer Graphics And Vision Graz University Of Technology Austria
+What Do Deep Networks Like to See?,German Research Center For Articial Intelligence (Dfki) Tu Kaiserslautern
+Context-Aware Deep Feature Compression for High-Speed Visual Tracking,Asri Ece. Seoul National University   Personal Robotics Lab. Eee. Imperial College London School Of Computer Science University Of Birmingham Clova Ai Research Naver Corp.
+Learning Rich Features for Image Manipulation Detection,University Of Maryland College Park Adobe Research
+Feature Super-Resolution: Make Machine See More Clearly,School Of Computer Science Shanghai Key Laboratory Of Intelligent Information Processing Fudan University 
+Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks,Zhejiang University Nanyang Technological University Tencent Ai Lab Columbia University 
+Learning a Complete Image Indexing Pipeline,And Technicolor Rennes France Inria Rennes France Amazon Seattle Wa Valeo.Ai Paris France
+Multiple Granularity Group Interaction Prediction, Shanghai Institute For Advanced Communication And Data Science Shanghai Key Laboratory Of Digital Media Processing And Transmission Shanghai Jiao Tong University Shanghai  China
+Facelet-Bank for Fast Portrait Manipulation,The Chinese University Of Hong Kong Tencent Youtu Lab Johns Hopkins University 
+MoCoGAN: Decomposing Motion and Content for Video Generation,Snap Research Nvidia
+3D Semantic Trajectory Reconstruction From 3D Pixel Continuum,D D University Of Minnesota University Of Minnesota University Of Minnesota
+Classification-Driven Dynamic Image Enhancement,Classication-Driven   And Cv:Hci Kit Karlsruhe Esat-Psi Ku Leuven York University Toronto And Cvl Eth Zurich
+Geometry-Aware Deep Network for Single-Image Novel View Synthesis,Cecs Anu Shanghaitech University Cvlab Epfl Canberra Australia Shanghai China Lausanne Switzerland
+Coding Kendall's Shape Trajectories for 3D Action Recognition,Kendalls D Imt Lille Douai Univ. Lille Cnrs Umr Cristal Centre De Recherche En Informatique Signal Et Automatique De Lille F- Lille France
+Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation,Peng* Rutgers University Tang* Rutgers University Facebook Ibm T.J. Watson Research Center Rutgers University
+Learning Deep Descriptors With Scale-Aware Triplet Networks,
+Sim2Real Viewpoint Invariant Visual Servoing by Recurrent Control,Simreal University Of Washington University Of California Berkeley Google Brain Initial Observation Reaching Query Object Initial Observation Reaching Query Object Query Object I S T N O P W E I V T N E R E F F I D H T I W M R A D E T A U M S N I L I Unseen Object A W I I A K U K N O T S E T M R A C I T O B O R I N A R T Figure . Illustration Of Our Learned Controller. Training Is Performed In Simulation (Left) To Reach Varied Objects From Various Viewpoints. The Controller Learns To Implicitly Calibrate The Image-Space Motion Of The Arm With Respect To The Actions Issued In The Unknown Coordinate Frame Of The Robot. The Model Is Then Transferred To The Real World Adapting The Features And Can Reach Previously Unseen Objects From Novel Viewpoints (Right).
+Visual to Sound: Generating Natural Sound for Videos in the Wild,And University Of North Carolina At Chapel Hill Adobe Research
+Burst Denoising With Kernel Prediction Networks, Uc Berkeley Google Research
+Deformation Aware Image Compression,And Technionisrael Institute Of Technology Haifa Israel
+Recurrent Scene Parsing With Perspective Understanding in the Loop,Dept. Of Computer Science University Of California Irvine 
+Soccer on Your Tabletop,And University Of Washington Facebook Google Figure . From A Youtube Video Of A Game Our System Outputs A Dynamic D Reconstruction Of The Game That Can Be Viewed Interactively With An Augmented Reality Device. The Supplementary Video Demonstrates The Capabilities Of The Method.
+Multi-Task Adversarial Network for Disentangled Feature Learning,University Of Cambridge Adobe Research
+PPFNet: Global Context Aware Local Features for Robust 3D Point Matching,D Deng* Birdal* Ilic* Technische Universitat Munchen Germany * Siemens Ag Munchen Germany National University Of Defense Technology China  
+Joint Pose and Expression Modeling for Facial Expression Recognition,School Of Computer Science Communication Engineering Jiangsu University China      National Laboratory Of Pattern Recognition Institute Of Automation Cas University Of Chinese Academy Of Sciences 
+Single View Stereo Matching,Sensetime Research The Chinese University Of Hong Kong Hong Kong Sar China Yat-Sen University China
+Uncalibrated Photometric Stereo Under Natural Illumination,Lighting Directional Lighting
+Two Can Play This Game: Visual Dialog With Discriminative Question Generation and Answering,Uiuc Uiuc Uiuc
+MobileNetV2: Inverted Residuals and Linear Bottlenecks,Mobilenetv: 
+Multi-View Harmonized Bilinear Network for 3D Object Recognition,D Interdisciplinary Graduate School Nanyang Technological University Department Of Cse State University Of New York At Buffalo
+Reflection Removal for Large-Scale 3D Point Clouds,Reection D And School Of Electrical And Computer Engineering Ulsan National Institute Of Science And Technology Ulsan Korea And
+Learning Superpixels With Segmentation-Aware Affinity Loss,Afnity  National Taiwan University Nvidia Uc Merced
+Harmonious Attention Network for Person Re-Identification,Re-Identication Queen Mary University Of London Vision Semantics Ltd. 
+PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition,Department Of Computer Science National University Of Singapore
+CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes, University Of Illinois At Urbana-Champaign  Beijing University Of Posts And Telecommunications
+Feedback-Prop: Convolutional Neural Network Inference Under Partial Evidence,University Of Virginia Cyberagent Inc. 
+Cross-Dataset Adaptation for Visual Question Answering,U. Of Southern California U. Of Southern California U. Of Southern California Los Angeles Ca Los Angeles Ca Los Angeles Ca
+A Certifiably Globally Optimal Solution to the Non-Minimal Relative Pose Problem,Certiably Mapir-Uma Group University Of Malaga Spain Mobile Perception Lab Sist Shanghaitech Mapir-Uma Group University Of Malaga Spain
+Dynamic-Structured Semantic Propagation Network,Carnegie Mellon University Wumii Tech. Limited Petuum Inc
+Im2Pano3D: Extrapolating 360° Structure and Semantics Beyond the Field of View,Impanod: Princeton University Stanford University Http://Impanod.Cs.Princeton.Edu Input: Rgb-D Observation
+Pose-Robust Face Recognition via Deep Residual Equivariant Mapping,Cuhk - Sensetime Joint Lab The Chinese University Of Hong Kong Sensetime Research 
+Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition,  The University Of Sydney Sensetime Research The Chinese University Of Hong Kong 
+RoadTracer: Automatic Extraction of Road Networks From Aerial Images,Soane Mit Csail Qatar Computing Research Institute Hbku
+Learning From Synthetic Data: Addressing Domain Shift for Semantic Segmentation, Umiacs University Of Maryland College Park Md Ge Global Research Niskayuna Ny Avitas Systems Ge Venture Boston Ma.
+Hierarchical Novelty Detection for Visual Object Recognition,University Of Michigan Ann Arbor Mi Usa Korea Advanced Institute Of Science And Technology Daejeon Korea Google Brain Mountain View Ca Usa
+ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing,King Abdullah University Of Science And Technology (Kaust) Saudi Arabia
+Attentional ShapeContextNet for Point Cloud Recognition,University Of California San Diego 
+BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning,Mitsubishi Electric Research Laboratories Eecs The University Of Kansas Broadway Cambridge Ma - Jayhawk Blvd. Lawrence Ks 
+Scalable Dense Non-Rigid Structure-From-Motion: A Grassmannian Perspective,Australian National University Acrv Npu China Merl Cambridge Ma
+Very Large-Scale Global SfM by Distributed Motion Averaging, And The Hong Kong University Of Science And Technology Altizure.Com Simon Fraser University
+Structure From Recurrent Motion: From Rigidity to Recurrency,  Tsinghua University Carnegie Mellon University Australian National University
+Robust Classification With Convolutional Prototype Learning,Classication         Nlpr Institute Of Automation Chinese Academy Of Sciences Beijing P.R. China University Of Chinese Academy Of Sciences Beijing P.R. China Cas Center For Excellence Of Brain Science And Intelligence Technology Beijing P.R. China 
+Radially-Distorted Conjugate Translations,Visual Recognition Group Ctu In Prague Centre For Mathematical Sciences Lund University
+Learning Strict Identity Mappings in Deep Residual Networks,University Of Utah Nvidia
+VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection,D Apple Inc Apple Inc
+Learning Latent Super-Events to Detect Multiple Activities in Videos,And Department Of Computer Science Indiana University Bloomington
+Large-Scale Point Cloud Semantic Segmentation With Superpoint Graphs,Universite Paris-Est Lastig Matis Ign Ensg Universite Paris-Est Ecole Des Ponts Paristech
+A Robust Method for Strong Rolling Shutter Effects Correction Using Lines With Automatic Feature Selection,Institut Pascal Universite Clermont Auvergne / Cnrs Avenue Blaise Pascal Aubi`Ere Cedex France
+CarFusion: Combining Point Tracking and Part Detection for Dynamic 3D Reconstruction of Vehicles,D N Carnegie Mellon University
+Non-Linear Temporal Subspace Representations for Activity Recognition, Merl Cambridge Ma Mit Cambridge Ma Acrv Anu Canberra 
+Deep Face Detector Adaptation Without Negative Transfer or Catastrophic Forgetting,University Of Central Florida Adobe Research Tencent Ai Lab Orlando Fl San Jose Ca Bellevue Wa A
+A Pose-Sensitive Embedding for Person Re-Identification With Expanded Cross Neighborhood Re-Ranking,Re-Identication   Karlsruhe Institute Of Technology Fraunhofer Iosb Karlsruhe Germany
+MaskLab: Instance Segmentation by Refining Object Detection With Semantic and Direction Features,Rening Google Inc. Rwth Aachen University Ucla
+Weakly Supervised Instance Segmentation Using Class Peak Response,And University Of Chinese Academy Of Sciences Duke University 
+Automatic 3D Indoor Scene Modeling From Single Panorama,D University Of Delaware Shanghaitech University Plex-Vr Inc. Microsoft Research
+AttnGAN: Fine-Grained Text to Image Generation With Attentional Generative Adversarial Networks,Lehigh University Microsoft Research Rutgers University Duke University Jd Ai Research 
+Recurrent Residual Module for Fast Inference in Videos,Shanghai Jiao Tong University Zhejiang University Massachusetts Institute Of Technology 
+Conditional Probability Models for Deep Image Compression,Eth Zurich Switzerland
+Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains,Sensetime Research Yat-Sen University  
+Recurrent Slice Networks for 3D Segmentation of Point Clouds,D University Southern California Los Angeles California
+CodeSLAM — Learning a Compact Optimisable Representation for Dense Visual SLAM,Dyson Robotics Laboratory At Imperial College Department Of Computing Imperial College London Uk
+Learned Shape-Tailored Descriptors for Segmentation,And King Abdullah University Of Science And Technology (Kaust) Saudi Arabia
+A Prior-Less Method for Multi-Face Tracking in Unconstrained Videos,Ibm Research Ai Rutgers University
+Generating a Fusion Image: One's Identity and Another's Shape,Ones Anothers School Of Electrical Engineering Kaist South Korea 
+PiCANet: Learning Pixel-Wise Contextual Attention for Saliency Detection,Northwestern Polytechincal University University Of California Merced Google Cloud 
+The Lovász-Softmax Loss: A Tractable Surrogate for the Optimization of the Intersection-Over-Union Measure in Neural Networks,Dept. Esat Center Processing Speech And Images Ku Leuven Belgium
+Memory Matching Networks for One-Shot Image Recognition,    And University Of Science And Technology Of China Hefei China Microsoft Research Beijing China Hangzhou Dianzi University Hangzhou China 
+Solving the Perspective-2-Point Problem for Flying-Camera Photo Composition,Perspective--Point Nus Graduate School Integrative Sciences And Engineering Department Of Computer Science National University Of Singapore 
+Structured Uncertainty Prediction Networks, University Of Bath Anthropics Technology Ltd. University College London
+Deep Adversarial Metric Learning,         Department Of Automation Tsinghua University China State Key Lab Of Intelligent Technologies And Systems China Beijing National Research Center For Information Science And Technology China
+Multi-Cue Correlation Filters for Robust Visual Tracking,Cas Key Laboratory Of Gipas University Of Science And Technology Of China University Of Texas At San Antonio Hefei University Of Technology
+Frustum PointNets for 3D Object Detection From RGB-D Data,D Stanford University Nuro Inc. Uc San Diego
+Active Fixation Control to Predict Saccade Sequences,Department Of Electrical Engineering And Computer Science York University Toronto Canada Yulia K
+Bootstrapping the Performance of Webly Supervised Semantic Segmentation,School Computer Science University Adelaide Australia School Computer Science And Engineering Nanyang Technological University Singapore 
+CBMV: A Coalesced Bidirectional Matching Volume for Disparity Estimation,Stevens Institute Of Technology
+Low-Shot Learning With Large-Scale Diffusion,Facebook Ai Research *Cornell University
+From Lifestyle Vlogs to Everyday Interactions,University Of California Berkeley
+Embodied Question Answering,    Institute Of Technology Facebook Ai Research 
+Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning,Mit Lincoln Laboratory Planck Aerosystems
+A Fast Resection-Intersection Method for the Known Rotation Problem,University Of Adelaide Adelaide Sa Australia
+NAG: Network for Adversary Generation,Mopuri* Ojha* And Video Analytics Lab Computational And Data Sciences Indian Institute Of Science Bangalore India
+DOTA: A Large-Scale Dataset for Object Detection in Aerial Images,Wuhan University Huazhong Univ. Sci. And Tech. Cornell University Rochester University German Aerospace Center (Dlr) University Of Venice 
+LDMNet: Low Dimensional Manifold Regularized Neural Networks,Duke University Duke University Baidu Silicon Valley Ai Lab Duke University Duke University Duke University
+COCO-Stuff: Thing and Stuff Classes in Context,University Of Edinburgh Google Ai Perception
+RayNet: Learning Volumetric 3D Reconstruction With Ray Potentials,D  Ali  Autonomous Vision Group Mpi For Intelligent Systems Tubingen Microsoft Computer Vision Lab Eth Zurich & Ku Leuven Computer Vision And Geometry Group Eth Zurich Max Planck Eth Center For Systems
+On the Convergence of PatchMatch and Its Variants,Cmla Ens Cachan Cnrs Cmla Ens Cachan Cnrs Universit Paris-Saclay Cachan France Universit Paris-Saclay Cachan France
+An End-to-End TextSpotter With Explicit Alignment and Attention,    University Of Adelaide Australia Csiro Data Australia Malong Technologies Co. Ltd Shenzhen China Shenzhen Institutes Of Advanced Technology Chinese Academy Of Sciences Shenzhen China
+A Memory Network Approach for Story-Based Temporal Summarization of 360° Videos,Seoul National University Http://Vision.Snu.Ac.Kr/Projects/Pfmn
+Learning to Segment Every Thing,Bair Uc Berkeley Facebook Ai Research (Fair)
+Monocular 3D Pose and Shape Estimation of Multiple People in Natural Scenes - The Importance of Multiple Scene Constraints,D Zanr* Marinoiu* 
+Local Descriptors Optimized for Average Precision,Boston Univesity Honda Research Institute Usa Boston University
+Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking, And School Of Computer Science And Technology Harbin Institute Of Technology China Department Of Computing The Hong Kong Polytechnic University China School Of Engineering University Of California Merced Usa
+Progressively Complementarity-Aware Fusion Network for RGB-D Salient Object Detection,Li* City University Of Hong Kong Kowloon Hong Kong.
+Regularizing Deep Networks by Modeling and Predicting Label Structure,Toyota Technological Institute At Chicago
+Wrapped Gaussian Process Regression on Riemannian Manifolds,Department Of Computer Science University Of Copenhagen
+GAGAN: Geometry-Aware Generative Adversarial Networks,Kossai Imperial College London Middlesex University London
+Robust Depth Estimation From Auto Bracketed Images,Korea Advanced Institute Of Science And Technology (Kaist) Republic Of Korea 
+Estimation of Camera Locations in Highly Corrupted Scenarios: All About That Base No Shape Trouble,University Minnesota University Minnesota
+Analyzing Filters Toward Efficient ConvNet,Efcient National Institute Of Advanced Industrial Science And Technology Japan
+Collaborative and Adversarial Network for Unsupervised Domain Adaptation,School Of Electrical Information Engineering The University Of Sydney Computer Vision Laboratory Eth Zurich
+Multi-Level Factorisation Net for Person Re-Identification,Re-Identication Queen Mary University Of London The University Of Edinburgh
+Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification,Re-Identication Queen Mary University Of London 
+Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation,The University Of Tokyo Japan 
+GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation,The Chinese University Of Hong Kong University Of Toronto Uber Advanced Technologies Group Youtu Lab Tencent
+Joint Optimization Framework for Learning With Noisy Labels,The University Of Tokyo Japan 
+Parallel Attention: A Unified Framework for Visual Object Discovery Through Dialogs and Queries,Unied University Of Adelaide Australia; Australian Centre Robotic Vision
+Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference,Efcient 
+Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos,Institute Of Computer Science Technology Peking University Beijing P.R. China
+Analytical Modeling of Vanishing Points and Curves in Catadioptric Cameras,Instituto Superior Tecnico Lisboa University Oxford University Utah
+2D3D Pose Estimation and Action Recognition Using Multitask Deep Learning,D/D   Etis Umr  Paris Seine University Ensea Cnrs F- Cergy France Sorbonne Universite Cnrs Laboratoire Dinformatique De Paris  Lip F- Paris France 
+Dimensionality's Blessing: Clustering Images by Underlying Distribution,Dimensionalitys Advanced Digital Sciences Center Institute Of Infocomm Research Sun Yat-Sen University Osaka University
+Intrinsic Image Transformation via Scale Space Decomposition, College Of Computer Science Zhejiang University Alibaba - Zhejiang University Joint Institute Of Frontier Technologies
+Fast and Accurate Single Image Super-Resolution via Information Distillation Network,School Of Electronic Engineering Xidian University Xian China
+Learning Facial Action Units From Web Images With Scalable Weakly Supervised Clustering,School Of Comm. And Info. Engineering Beijing University Of Posts And Telecom. Robotics Institute Carnegie Mellon University Dept. Of Electrical And Computer Engineering The Ohio State University
+Triplet-Center Loss for Multi-View 3D Object Retrieval,D Huazhong University Of Science And Technology 
+MorphNet: Fast &amp; Simple Resource-Constrained Structure Learning of Deep Networks,Or
+MAttNet: Modular Attention Network for Referring Expression Comprehension,University Of North Carolina At Chapel Hill Adobe Research 
+Deep Cauchy Hashing for Hamming Space Retrieval,Kliss Moe; School Of Software Tsinghua University China National Engineering Laboratory Big Data Software Beijing Key Laboratory Industrial Big Data System And Application
+Classifier Learning With Prior Probabilities for Facial Action Unit Recognition,Classier And National Laboratory Of Pattern Recognition Casia University Of Chinese Academy Of Sciences Rensselaer Polytechnic Institute
+Maximum Classifier Discrepancy for Unsupervised Domain Adaptation,Classier And The University Of Tokyo Riken
+Defocus Blur Detection via Multi-Stream Bottom-Top-Bottom Fully Convolutional Network, Dalian University Of Technology China Dalian Institute Of Chemical Physics Chinese Academy Of Sciences China 
+Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation,Rcv Lab. Kaist Mit Csail Cml Kaist 
+DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation,Carnegie Mellon University Chongqing University Of Posts Telecommunications Xian Jiaotong University
+Learning Patch Reconstructability for Accelerating Multi-View Stereo,Carnegie Mellon University Forbes Avenue Pittsburgh Pa Facebook Reality Labs Pittsburgh Bayard Street Pittsburgh Pa (Cid:)(Cid:)(Cid:)(Cid:)(Cid:)(Cid:)(Cid:)(Cid:)(Cid:) % Of Pixels Processed % Of Pixels Processed Figure : Left: A Reconstruction Performed Using All Pixels From The Input. Right: Our Method Produces A Similar Reconstruc- Tion Using A Fraction Of The Pixels (White Regions In The Input Images Are Unused).
+Probabilistic Plant Modeling via Multi-View Image-to-Image Translation,   Osaka University Jst Presto Figure : Result Of Branch Structure Estimation From Simulated And Real Leafy Images. From Images Our Method Infers The Branch Structure In A Framework. An Explicit Graph Structure (Red Lines) Can Be Derived From The Model.
+Shape From Shading Through Shape Evolution,Computer Science And Engineering University Of Michigan
+Learning to Act Properly: Predicting and Explaining Affordances From Images,University Of Toronto Massachusetts Institute Of Technology 
+Encoding Crowd Interaction With Deep Neural Network for Pedestrian Trajectory Prediction,Shanghaitech University Shanghaitech University Shanghaitech University
+Deep Ordinal Regression Network for Monocular Depth Estimation,Ubtech Sydney Ai Centre Sit Feit The University Of Sydney Australia Department Of Biomedical Informatics University Of Pittsburgh Department Of Philosophy Carnegie Mellon University Universite Paris-Est Ligm (Umr ) Cnrs Enpc Esiee Paris Upem Marne-La-Vallee France 
+Deep Learning of Graph Matching,Zanr And  Department Mathematics Faculty Engineering Lund University Institute Mathematics The Romanian Academy
+xUnit: Learning a Spatial Activation Function for Efficient Image Restoration,Efcient And Technionisrael Institute Of Technology Haifa Israel
+Learning Answer Embeddings for Visual Question Answering,U. Of Southern California U. Of Southern California U. Of Southern California Los Angeles Ca Los Angeles Ca Los Angeles Ca
+Learning a Discriminative Feature Network for Semantic Segmentation,Key Laboratory Of Ministry Of Education Image Processing And Intelligent Control School Of Automation Huazhong University Of Science And Technology Key Laboratory Of Machine Perception Peking University Megvii Inc. (Face++) 
+Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking,Department Of Computer Science The University Of North Carolina At Chapel Hill
+Deeply Learned Filter Response Functions for Hyperspectral Reconstruction,National Institute Of Informatics Saitama University Tokyo Metropolitan University
+Focus Manipulation Detection via Photometric Histogram Analysis,Computer Information & Science University Of Delaware Newark De Honeywell Acs Labs Golden Valley Mn University Of Delaware Shanghaitech University Shanghai Chn
+SplineCNN: Fast Geometric Deep Learning With Continuous B-Spline Kernels,Department Of Computer Graphics Tu Dortmund University Both Authors Contributed Equally To This Work.
+A Weighted Sparse Sampling and Smoothing Frame Transition Approach for Semantic Fast-Forward First-Person Videos,Universidade Federal De Minas Gerais (Ufmg) Brazil 
+Hierarchical Recurrent Attention Networks for Structured Online Maps,Uber Atg Toronto
+Scale-Transferrable Object Detection, Shanghai Key Laboratory Of Digital Media Processing And Transmission Shanghai Institute For Advanced Communication And Data Science Shanghai Jiao Tong University Shanghai  China Minivision
+DeepVoting: A Robust and Explainable Deep Network for Semantic Part Detection Under Partial Occlusion,Xie( ) Johns Hopkins University Baidu Research Usa 
+Seeing Small Faces From Robust Anchor's Perspective,Anchors Carnegie Mellon University Forbes Avenue Pittsburgh Pa  Usa 
+Anticipating Traffic Accidents With Adaptive Loss and Large-Scale Incident DB,Trafc National Institute Of Advanced Industrial Science Technology (Aist) Keio University 
+Gesture Recognition: Focus on the Hands,J. Colorado State University 
+Perturbative Neural Networks,Carnegie Mellon University Michigan State University Carnegie Mellon University
+Learning Convolutional Networks for Content-Weighted Image Compression,Department Of Computing The Hong Kong Polytechnic University School Of Computer Science And Technology Harbin Institute Of Technology
+V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation From a Single Depth Map,Vv-Posenet: D Asri Seoul National University Kwangwoon University Asri Seoul National University
+End-to-End Flow Correlation Tracking With Spatial-Temporal Attention,     Institute Of Automation Chinese Academy Of Sciences Beijing China University Of Chinese Academy Of Sciences Beijing China Sensetime Group Limited Beijing China Tianjin Intelligent Tech.Institute Of Casia Co.Ltd Tianjin China
+Revisiting Knowledge Transfer for Training Object Class Detectors,R. R. S. V. Google Ai Perception
+EPINET: A Fully-Convolutional Neural Network Using Epipolar Geometry for Depth From Light Field Images,Yonsei University Kaist
+Hashing as Tie-Aware Learning to Rank,Department Of Computer Science Boston University 
+Cross-Domain Self-Supervised Multi-Task Feature Learning Using Synthetic Imagery,And University Of California Davis
+Learning to Localize Sound Source in Visual Scenes,Dept. Ee Kaist South Korea Mit Csail Ma Usa Dept. Eecs University Of California Merced Ca Usa
+Video Captioning via Hierarchical Reinforcement Learning,University Of California Santa Barbara 
+Easy Identification From Better Constraints: Multi-Shot Person Re-Identification From Reference Constraints,Identication Re-Identication Electrical Engineering And Computer Science Northwestern University Us Institute Of Software Chinese Academy Of Science China 
+Geometry-Aware Network for Non-Rigid Shape Prediction From a Single View,A. A. L. A. V. F. Institut De Rob`Otica I Inform`Atica Industrial Csic-Upc Barcelona Spain Laboratoire Bordelais De Recherche En Informatique Universite De Bordeaux France Mapillary Research Graz Austria
+Cube Padding for Weakly-Supervised Saliency Prediction in 360° Videos,National Tsing Hua University Taiwan Ai Labs Academia Sinica 
+Gated Fusion Network for Single Image Dehazing,  And State Key Laboratory Of Information Security (Sklois) Iie Cas Tencent Ai Lab City University Of Hong Kong Nanjing University Of Science And Technology School Of Cyber Security University Of Chinese Academy Of Sciences Electrical Engineering And Computer Science University Of California Merced Https://Sites.Google.Com/Site/Renwenqi/Research/Dehazing/Gfn
+Object Referring in Videos With Language and Human Gaze,Eth Zurich Ku Leuven
+Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking,    University Of Chinese Academy Of Sciences Beijing China School Of Computer And Information Technology Beijing Jiaotong University Beijing China National Laboratory Of Pattern Recognition Institute Of Automation Chinese Academy Of Sciences Beijing China Department Of Computer Science And Information Systems Birkbeck College University Of London Uk. 
+A Causal And-Or Graph Model for Visibility Fluent Reasoning in Tracking Interacting Objects,  University Of California Los Angeles Inst. Computing Technology Chinese Academy Of Sciences Dept. Computer Science San Diego State University Hikvision Research Institute Usa
+3D-RCNN: Instance-Level 3D Object Reconstruction via Render-and-Compare,D-Rcnn: D Georgia Institute Of Technology Carnegie Mellon University Http://Abhijitkundu.Info/Projects/D-Rcnn
+Pose Transferrable Person Re-Identification,Re-Identication Shanghai Key Laboratory Of Digital Media Processing And Transmission Shanghai Institute For Advanced Communication And Data Science Shanghai Jiao Tong University Shanghai  China Minivision 
+Disentangling 3D Pose in a Dendritic CNN for Unconstrained 2D Face Alignment,D D Department Of Electrical And Computer Engineering Cfar And Umiacs University Of Maryland-College Parkusa
+SobolevFusion: 3D Reconstruction of Scenes Undergoing Free Non-Rigid Motion,D  *  Technische Universitat Munchen Siemens Corporate Technology
+A Network Architecture for Point Cloud Classification via Automatic Depth Images Generation,Classication A. Department Of Computer Science Eth Zurich Disney Research Zurich Equal Contribution From Both Authors 
+Deep Cocktail Network: Multi-Source Unsupervised Domain Adaptation With Category Shift,Sun Yat-Sen University Harbin Institute Of Technology Sensetime Research
+Occlusion-Aware Rolling Shutter Rectification of 3D Scenes,Rectication D Indian Institute Technology Madras 
+Analysis of Hand Segmentation in the Wild,Center For Research Computer Vision University Central Florida Khan And
+Conditional Generative Adversarial Network for Structured Domain Adaptation,Nanyang Technological University Nanyang Technological University Horizon Robotics Inc. State University Of New York At Buffalo
+An Efficient and Provable Approach for Mixture Proportion Estimation Using Linear Independence Assumption,Efcient  Ubtech Sydney Ai Centre Sit Feit The University Of Sydney Australia Department Of Biomedical Informatics University Of Pittsburgh Department Of Philosophy Carnegie Mellon University 
+4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications,Dfab: D Imperial College London Middlesex University London 
+PhaseNet for Video Frame Interpolation,  Department Of Computer Science Eth Zurich Disney Research
+View Extrapolation of Human Body From a Single Image,    Nanjing University Nanjing China University Kentucky Lexington Ky Usa University California San Diego Ca Usa Baidu Inc. Beijing China National Engineering Laboratory Deep Learning And Technology And Application China Zhuhao 
+Lean Multiclass Crowdsourcing,Caltech Caltech Inaturalist Cornell Tech Caltech
+Practical Block-Wise Neural Network Architecture Generation, National Laboratory Of Pattern Recognition Institute Of Automation Chinese Academy Of Sciences Sensetime Research Institute University Of Chinese Academy Of Sciences Cas Center For Excellence Of Brain Science And Intelligence Technology Email: 
+Wasserstein Introspective Neural Networks,University Of California San Diego 
+FSRNet: End-to-End Learning Face Super-Resolution With Facial Priors, Nanjing University Of Science And Technology Michigan State University University Of Adelaide Youtu Lab Tencent Motovis Inc. Https://Github.Com/Tyshiwo/Fsrnet Target Input (Bicubic) Vdsr Urdgn Srresnet Fsrnet (Ours) Fsrgan (Ours) Figure : Visual Results Of Different Methods.
+pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment,University Of Cambridge Toshiba Research Europe
+PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation,D Stanford Unviersity Zoox Inc. Zoox Inc.
+Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering,Dont  Georgia Institute Of Technology Facebook Ai Research Allen Institute Articial Intelligence 
+Feature Mapping for Learning Fast and Accurate 3D Pose Inference From Synthetic Images,D Institute Computer Graphics Vision Graz University Of Technology Graz Austria Laboratoire Bordelais De Recherche En Informatique Universite De Bordeaux Bordeaux France 
+Image Generation From Scene Graphs,Stanford University Google Cloud Ai
+Global Versus Localized Generative Adversarial Nets,
+Dual Attention Matching Network for Context-Aware Feature Sequence Based Person Re-Identification,Re-Identication Beijing University Of Posts And Telecommunications Beijing China Nanyang Technological University Singapore Alibaba Ai Labs Hangzhou China
+SYQ: Learning Symmetric Quantization for Efficient Deep Neural Networks,Efcient Faraone* Fraser# Blott# Leong* The University Of Sydney* Xilinx Research Labs# (Julian.Faraone (Nfraser
+DiverseNet: When One Right Answer Is Not Enough,* * University College London University Of Bath Http://Visual.Cs.Ucl.Ac.Uk/Pubs/Diversenet
+CondenseNet: An Efficient DenseNet Using Learned Group Convolutions,Efcient Cornell University Tsinghua University Facebook Ai Research Cornell University
+CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition,University Of California Santa Barbara 
+Learning to Find Good Correspondences,Yi* * Visual Computing Group University Of Victoria Computer Vision Laboratory Ecole Polytechnique Federale De Lausanne Sony Imaging Products & Solutions Inc. Institute For Computer Graphics And Vision Graz University Of Technology
+Convolutional Sequence to Sequence Model for Human Dynamics,Department Of Computer Science National University Of Singapore Singapore 
+Geometry-Aware Learning of Maps for Camera Localization,
+Efficient Large-Scale Approximate Nearest Neighbor Search on OpenCL FPGA,Uw-Madison Uw-Madison Uw-Madison
+Deep Texture Manifold for Ground Terrain Recognition, Department Of Electrical And Computer Engineering Rutgers University Amazon Ai 
+Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning,Domain-Specic   Department Of Computer Science Cornell University Cornell Tech Google Research
+Normalized Cut Loss for Weakly-Supervised CNN Segmentation,Tang* Disney Research Zurich Switzerland Computer Science University Of Waterloo Canada
+Knowledge Aided Consistency for Weakly Supervised Phrase Grounding,Institute Robotics And Intelligent Systems University Of Southern California Los Angeles Ca  Usa
+SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation,D University Of Southern California Los Angeles California University Of California San Diego San Diego California
+Salient Object Detection Driven by Fixation Prediction,    Beijing Lab Of Intelligent Information Technology School Of Computer Science Beijing Institute Of Technology China Inception Institute Of Articial Intelligence Abu Dhabi Uae Department Of Computer Science University Of Central Florida Usa 
+Structured Set Matching Networks for One-Shot Part Labeling,Choi* Kembhavi* Farhadi* Allen Institute Articial Intelligence* Semantic Machines University Of Washington
+Learning Less Is More - 6D Camera Localization via 3D Surface Regression,D D And Visual Lab Heidelberg University (Hci/Iwr) Http://Vislearn.De
+Neural 3D Mesh Renderer,D And The University Of Tokyo Riken
+Decorrelated Batch Normalization,State Key Laboratory Of Software Development Environment Beihang University P.R.China University Of Michigan Ann Arbor
+End-to-End Learning of Keypoint Detector and Descriptor for Pose Invariant 3D Matching,D Department Computer Science George Mason University Fairfax Va Siemens Corporate Technology Princeton Nj
+MiCT: Mixed 3D2D Convolutional Tube for Human Action Recognition,D/D University Of Science And Technology Of China Microsoft Research Asia
+Who Let the Dogs Out? Modeling Dog Behavior From Visual Data, University Of Washington Allen Institute For Ai (Ai)
+Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition,        Department Of Automation Tsinghua University China State Key Lab Of Intelligent Technologies And Systems Tsinghua University China Beijing National Research Center Information Science And Technology China
+Compassionately Conservative Balanced Cuts for Image Segmentation,Rochester Institute Of Technology 
+On the Robustness of Semantic Segmentation Models to Adversarial Attacks, University Oxford Emotech Labs 
+Non-Blind Deblurring: Handling Kernel Uncertainty With CNNs,Indian Institute Of Technology Madras 
+FOTS: Fast Oriented Text Spotting With a Unified Network,Unied And Sensetime Group Ltd. Shenzhen Institutes Of Advanced Technology Chinese Academy Of Sciences
+Learning to Estimate 3D Human Pose and Shape From a Single Color Image,D University Of Pennsylvania Peking University State Key Lab Of Cad&Cg Zhejiang University
+Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser,Department Of Computer Science And Technology Tsinghua Lab Of Brain And Intelligence Beijing National Research Center For Information Science And Technology Bnrist Lab Tsinghua University China 
+Aligning Infinite-Dimensional Covariance Matrices in Reproducing Kernel Hilbert Spaces for Domain Adaptation,Innite-Dimensional Washington University St. Louis 
+Multi-Scale Location-Aware Kernel Representation for Object Detection,School Of Computer Science And Technology Harbin Institute Of Technology Harbin China School Of Information And Communication Engineering Dalian University Of Technology Dalian China
+Learning by Asking Questions,Carnegie Mellon University Facebook Ai Research
+Tips and Tricks for Visual Question Answering: Learnings From the 2017 Challenge,University Of Adelaide Australian National University Jd Ai Research
+Multi-Scale Weighted Nuclear Norm Image Restoration,And Technion - Israel Institute Of Technology
+FoldingNet: Point Cloud Auto-Encoder via Deep Grid Deformation,Carnegie Mellon University Mitsubishi Electric Research Laboratories (Merl) Clemson University
+Efficient Sparse Representation of Manifold Distance Matrices for Classical Scaling,Efcient Intel Labs Hillsboro Oregon Departments Computer Science & Neuroscience The University Texas At Austin
+An Analysis of Scale Invariance in Object Detection ­ SNIP,University Maryland College Park
+Clinical Skin Lesion Diagnosis Using Representations Inspired by Dermatologist Criteria,College Of Computer And Control Engineering Nankai University Tianjin China School Of Computer Science And Informatics Cardiff University Cardiff Uk
+Im2Struct: Recovering 3D Shape Structure From a Single RGB Image,Imstruct: D Xu* National University Of Defense Technology
+Multi-View Consistency as Supervisory Signal for Learning Shape and Pose Prediction,University Of California Berkeley 
+VizWiz Grand Challenge: Answering Visual Questions From Blind People,And University Of Texas At Austin University Of Science And Technology Of China University Of Colorado Boulder Carnegie Mellon University University Of Rochester
+Wing Loss for Robust Facial Landmark Localisation With Convolutional Neural Networks,Centre Vision Speech And Signal Processing University Of Surrey Guildford Gu Xh Uk School Of Iot Engineering Jiangnan University Wuxi  China 
+Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments,Australian National University University Of Adelaide Queensland University Of Technology Macquarie University
+Attention-Aware Compositional Network for Person Re-Identification,Re-Identication Sensenets Technology Limited Sensetime Group Limited The University Of Sydney
+A Twofold Siamese Network for Real-Time Object Tracking,And Cas Key Laboratory Of Technology In Geo-Spatial Information Processing And Application System University Of Science And Technology Of China Hefei Anhui China Microsoft Research Beijing China 
+Hyperparameter Optimization for Tracking With Continuous Deep Q-Learning,     And Beijing Lab Of Intelligent Information Technology School Of Computer Science Beijing Institute Of Technology China Inception Institute Of Articial Intelligence Abu Dhabi Uae School Of Computing Sciences University Of East Anglia Norwich Nr Tj U.K. Research School Of Engineering Australian National University Australia
+One-Shot Action Localization by Learning Sequence Matching Network,The Australian National University Shanghaitech University The Australian National University
+On the Importance of Label Quality for Semantic Segmentation,  T P Qrs   P R T Qs   S P R T Q   T Q P Sr   S P T Q R   S T P Rq   T S Qr   S P Qrt   S T P Qr T  S P Qr P Rq     T T S P S P Q R
+Learning to Promote Saliency Detectors,Dalian University Of Technology China University Of Central Florida Usa
+FaceID-GAN: Learning a Symmetry Three-Player GAN for Identity-Preserving Face Synthesis,Cuhk - Sensetime Joint Lab The Chinese University Of Hong Kong Sensetime Research Shenzhen Institutes Of Advanced Technology Chinese Academy Of Sciences 
+PU-Net: Point Cloud Upsampling Network,   The Chinese University Of Hong Kong Tel Aviv University Guangdong Provincial Key Laboratory Of Computer Vision And Virtual Reality Technology Shenzhen Institutes Of Advanced Technology Chinese Academy Of Sciences China
+Rotation Averaging and Strong Duality,   School Of Electrical Engineering Computer Science Queensland University Of Technology Department Of Electrical Engineering Chalmers University Of Technology Centre For Mathematical Sciences Lund University School Of Computer Science The University Of Adelaide
+Extreme 3D Face Reconstruction: Seeing Through Occlusions,D Tr`An   And Institute For Robotics And Intelligent Systems Usc Ca Usa Information Sciences Institute Usc Ca Usa The Open University Of Israel Israel Figure : Results Of Our Method. Detailed Complete D Reconstructions Shown Next To Their Partially Occluded Input Faces.
+Weakly-Supervised Deep Convolutional Neural Network Learning for Facial Action Unit Intensity Estimation,And National Laboratory Of Pattern Recognition Casia University Of Chinese Academy Of Sciences Rensselaer Polytechnic Institute
+Multi-Task Learning by Maximizing Statistical Dependence,University Of Bath University Of Bath University Of Bath
+3D Pose Estimation and 3D Model Retrieval for Objects in the Wild,D D Institute Of Computer Graphics Vision Graz University Of Technology Austria Laboratoire Bordelais De Recherche En Informatique University Of Bordeaux France 
+Dual Skipping Networks,School Of Computer Science Fudan University Tencent Ai Lab School Of Data Science Fudan University Istbi Fudan University
+Depth and Transient Imaging With Compressive SPAD Array Cameras, Kaust University Of British Columbia
+Generative Adversarial Perturbations,Cornell University Cornell Tech Shanghai Jiao Tong University
+Scalable and Effective Deep CCA via Soft Decorrelation,Queen Mary University Of London The University Of Edinburgh 
+Image Collection Pop-Up: 3D Reconstruction and Clustering of Rigid and Non-Rigid Categories,D Institut De Rob`Otica I Inform`Atica Industrial Csic-Upc  Barcelona Spain
+Convolutional Image Captioning,University Of Illinois At Urbana-Champaign 
+HashGAN: Deep Learning to Hash With Pair Conditional Wasserstein GAN,Kliss Moe; School Of Software Tsinghua University China National Engineering Laboratory For Big Data Software Beijing Key Laboratory For Industrial Big Data System And Application
+Learning Dual Convolutional Neural Networks for Low-Level Vision,Nanjing University Of Science And Technology Dalian University Of Technology Sensetime Research Nvidia City University Of Hong Kong Tencent Youtu Lab Uc Merced (A) Gt (B) Srcnn [] (C) Vdsr With Nearest (D) Vdsr With Bilinear (E) Vdsr With Bicubic (F) Ours Figure . Visual Comparisons Of Super-Resolution Results By The Vdsr Method [] () With Structures Recovered By Different Methods I.E. Nearest Neighbor Bilinear And Bicubic Upsampling. Residual Algorithms Usually Take Upsampled Image As The Base Structures And Learn The Details The Difference Between The Upsampled And Ground Truth Images. However Residual Cannot Correct Low-Frequency Errors In The Structures E.G. The Structure Obtained By Nearest Neighbor Interpolation In (C). In Contrast Our Algorithm Is Motivated By The Decomposition Of A Signal Into Structures And Details Which Involves Both Structure And Detail And Thus Leads To Better Results.
+Image-Image Domain Adaptation With Preserved Self-Similarity and Domain-Dissimilarity for Person Re-Identification,Re-Identication University Of Chinese Academy Of Sciences University Of Technology Sydney Singapore University Of Technology Design 
+Appearance-and-Relation Networks for Video Classification,Classication National Key Laboratory Novel Software Technology Nanjing University China Computer Vision Laboratory Eth Zurich Switzerland Google Research
+Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition,University Of Maryland College Park 
+Disentangled Person Image Generation, Ku-Leuven/Psi Toyota Motor Europe (Trace) Eth Zurich Max Planck Institute For Informatics Saarland Informatics Campus 
+Towards Human-Machine Cooperation: Self-Supervised Sample Mining for Object Detection,Sun Yat-Sen University   The Hong Kong Polytechnic University Sensetime Research
+Domain Adaptive Faster R-CNN for Object Detection in the Wild, Computer Vision Lab Eth Zurich Visics Esat/Psi Ku Leuven
+Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals,D  
+A Deeper Look at Power Normalizations,Data/Csiro Australian National University Anu.Edu.Au}
+Good View Hunting: Learning Photo Composition From Dense View Pairs,Radomr Stony Brook University Adobe Research
+Facial Expression Recognition by De-Expression Residue Learning,And Department Of Computer Science State University Of New York At Binghamton Usa 
+Learning to Parse Wireframes in Images of Man-Made Environments,And Shanghaitech University 
+Five-Point Fundamental Matrix Estimation for Uncalibrated Cameras,Machine Perception Research Laboratory Mta Sztaki Budapest Hungary Centre Machine Perception Czech Technical University Prague Czech Republic
+Conditional Image-to-Image Translation,University Of Science And Technology Of China Microsoft Research Asia 
+Unsupervised Discovery of Object Landmarks as Structural Representations, University Michigan Ann Arbor Google Brain 
+Video Person Re-Identification With Competitive Snippet-Similarity Aggregation and Co-Attentive Snippet Embedding,Re-Identication   Cuhk-Sensetime Joint Lab The Chinese University Of Hong Kong Sensetime Research School Of Software Engineering Xian Jiaotong University 
+Single-Shot Object Detection With Enriched Semantics, Johns Hopkins University Shanghai University Hikvision Research
+A Perceptual Measure for Deep Single Image Camera Calibration,Hold-Geoffroy* Matt Lalonde* Universite Laval* Adobe
+Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling,Pixd: D   Massachusetts Institute Of Technology Shanghai Jiao Tong University Google Research Mismatched D Shapes Well-Aligned Images Shapes Our Dataset: Pixd Imprecise Pose Annotations Existing Datasets Figure : We Present Pixd A New Large-Scale Of Diverse Image-Shape Pairs. Each D In Pixd Is Associated With A Rich Diverse Set Of Images Each With An Accurate D Pose Annotation To Ensure Precise D-D Alignment. In Comparison Existing Datasets Have Limitations: D Models May Not Match The Objects In Images; Pose Annotations May Be Imprecise; Or The May Be Relatively Small.
+ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans,D Stanford University   Brown University Google Deepmind Niener Technical University Of Munich D Of Indoor Environments Suffer From Sensor Occlusions Leaving D Reconstructions With Highly Incomplete D Geometry (Left). We Propose A Novel Data-Driven Approach Based On Fully-Convolutional Neural Networks That Transforms Incomplete Signed Distance Functions (Sdfs) Into Complete Meshes At Unprecedented Spatial Extents (Middle). In Addition To Completion Our Approach Infers Class Labels Even Previously Missing Geometry (Right). Our Approach Outperforms Existing Approaches Both In Terms Of Labeling Accuracy By A Signicant Margin.
+Universal Denoising Networks : A Novel CNN Architecture for Image Denoising,Skolkovo Institute Of Science And Technology (Skoltech) Moscow Russia
+Stochastic Variational Inference With Gradient Linearization,Department Of Computer Science Tu Darmstadt
+Self-Supervised Multi-Level Face Model Learning for Monocular Reconstruction at Over 250 Hz,Mpi Informatics Saarland Informatics Campus Stanford University Technicolor Our Novel Approach Estimates High-Quality Facial Geometry Skin Reectance (Including Facial Hair) And Incident Illumination Hz. A Trainable Representation Is Learned Jointly With The Feed Forward Inverse Rendering Network. End-To-End Training Is Based On A Loss That Requires No Dense Ground Truth.
+Curve Reconstruction via the Global Statistics of Natural Curves,And Dept. Computer Science Ben-Gurion University Beer-Sheva Israel 
+Attentive Generative Adversarial Network for Raindrop Removal From a Single Image,  And Institute Of Computer Science And Technology Peking University Beijing P.R. China National University Of Singapore Yale-Nus College
+HATS: Histograms of Averaged Time Surfaces for Robust Event-Based Object Classification,Classication    Prophesee Paris France Institut De La Vision Upmc Paris France University Pittsburgh Medical Center / Carnegie Mellon University 
+Enhancing the Spatial Resolution of Stereo Images Using a Parallax Prior,Korea Advanced Institute Science And Technology (Kaist)
+Learning for Disparity Estimation Through Feature Constancy,National University Of Defense Technology Changsha China 
+Stacked Latent Attention for Multimodal Reasoning,Facebook Research Facebook Research Hacker Way Hacker Way
+CRRN: Multi-Scale Guided Concurrent Reflection Removal Network,Reection Interdisciplinary Graduate School School Of Electrical And Electronic Engineering School Of Computer Science And Engineering Nanyang Technological University Singapore National Engineering Laboratory For Video Technology School Of Eecs Peking University China
+Surface Networks,  And Courant Institute Of Mathematical Sciences New York University Center For Data Science New York University
+Sparse Photometric 3D Face Reconstruction Guided by Morphable Models,D Shanghaitech University Middle Huaxia Road Pudong Shanghai China Figure : Sample Results Using Our Ps Reconstruction. Using Just Input Images (Left) Our Method Can Recover Very High Quality D Geometry With Ne Geometric Details.
+Context-Aware Synthesis for Video Frame Interpolation,Portland State University Portland State University
+Dense 3D Regression for Hand Pose Estimation,D And Eth Zurich University Of Bonn Ku Leuven
+Adversarial Feature Augmentation for Unsupervised Domain Adaptation,Pattern Analysis & Computer Vision - Istituto Italiano Di Tecnologia Stanford Vision And Learning Lab - Stanford University Computer Science Department - Universit`A Di Verona
+SeedNet: Automatic Seed Generation With Deep Reinforcement Learning for Robust Interactive Segmentation,Department Of Ece Asri Seoul National University  Seoul Korea
+Free Supervision From Video Games,Ut Austin
+Deep Extreme Cut: From Extreme Points to Object Segmentation,K.-K. Maninis* S. J. L. Computer Vision Lab Eth Zurich Switzerland Figure . Example Results Of Dextr: The User Provides The Clicks For An Object And The Cnn Produces The Segmented Masks.
+Learning to Compare: Relation Network for Few-Shot Learning,Queen Mary University Of London University Of Oxford The University Of Edinburgh 
+Real-Time Monocular Depth Estimation Using Synthetic Data With Domain Adaptation via Image Style Transfer, Department Of Computer Science Department Of Engineering Durham University Uk
+Excitation Backprop for RNNs, Department Of Computer Science Boston University Pattern Analysis & Computer Vision (Pavis) Istituto Italiano Di Tecnologia Adobe Research Computer Science Department Universit`A Di Verona Figure : Our Proposed Framework Spatiotemporally Highlights/Grounds The Evidence That An Rnn Model Used In Producing A Class Label Or Caption A Given Input Video. In This Example By Using Our Proposed Back-Propagation Method The Evidence The Activity Class Cliffdiving Is Highlighted In A Video That Contains Cliffdiving And Horseriding. Our Model Employs A Single Backward Pass To Produce Saliency Maps That Highlight The Evidence That A Given Rnn Used In Generating Its Outputs.
+Factoring Shape Pose and Layout From the 2D Image of a 3D Scene,D D University California Berkeley 
+IQA: Visual Question Answering in Interactive Environments,   Paul G. Allen School Of Computer Science University Of Washington Allen Institute For Articial Intelligence Nvidia Xnor.Ai
+LiDAR-Video Driving Dataset: Learning Driving Policies Effectively,Li# Lu# And Fujian Key Laboratory Of Sensing And Computing For Smart Cities Xiamen University Shanghai Jiao Tong University University Of Waterloo
+Min-Entropy Latent Model for Weakly Supervised Object Detection,And University Of Chinese Academy Of Sciences Beijing China
+Densely Connected Pyramid Dehazing Network,Department Of Electrical And Computer Engineering Rutgers University Piscataway Nj
+Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation,       National Laboratory Of Pattern Recognition Institute Of Automation Chinese Academy Of Sciences University Of Chinese Academy Of Sciences Kingsoft Ltd. Cas Center Excellence In Brain Science Intelligence Technology Vimicro Ai Chip Technology Corporation Birkbeck University Of London
+Hybrid Camera Pose Estimation, Department Of Computer Science Eth Zurich Microsoft 
+Eliminating Background-Bias for Robust Person Re-Identification,Re-Identication Sensetime Research Chinese University Of Hong Kong Shenzhen Municipal Public Security Bureau
+Rethinking the Faster R-CNN Architecture for Temporal Action Localization, University Of Michigan Ann Arbor Google Research
+DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems,Mpi Informatics Saarland Informatics Campus University Of Siegen
+Super-FAN: Integrated Facial Landmark Localization and Super-Resolution of Real-World Low Resolution Faces in Arbitrary Poses With GANs,Computer Vision Laboratory The University Nottingham United Kingdom 
+Pointwise Convolutional Neural Networks,The University Of Tokyo Singapore University Of Technology And Design
+AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation,Video Analytics Lab Department Of Computational And Data Sciences Indian Institute Of Science Bangalore India 
+Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval,And School Of Electronic Engineering Xidian University Xian  China Tencent Ai Lab Shenzhen China Ubtech Sydney Ai Centre Sit Feit University Of Sydney Australia 
+Event-Based Vision Meets Deep Learning on Steering Prediction for Self-Driving Cars,Garca And Scaramuzza. Grupo De Tratamiento De Imagenes Universidad Politecnica De Madrid Spain Dept. Of Informatics And Neuroinformatics University Of Zurich And Eth Zurich Switzerland
+Learning Depth From Monocular Videos Using Direct Methods, Carnegie Mellon University Universidad Rey Juan Carlos
+Unsupervised Feature Learning via Non-Parametric Instance Discrimination,Uc Berkeley / Icsi Chinese University Of Hong Kong Amazon Rekognition
+Robust Physical-World Attacks on Deep Learning Visual Classification,Classication Evtimov* And University Of Michigan Ann Arbor University Of Washington University Of California Berkeley Samsung Research America And Stony Brook University
+MoNet: Deep Motion Exploitation for Video Object Segmentation, National University Of Defense Technology National University Of Singapore Nanyang Technological University 
+GVCNN: Group-View Convolutional Neural Networks for 3D Shape Recognition,D Kliss School Of Software Tsinghua University Beijing National Research Center Information Science And Technology School Of Information Science And Engineering Xiamen University
+Self-Calibrating Polarising Radiometric Calibration,Guangwei Information Systems Technology And Design Singapore University Of Technology And Design National Engineering Laboratory For Video Technology School Of Eecs Peking University Digital Content And Media Sciences Research Division National Institute Of Informatics
+Texture Mapping for 3D Reconstruction With RGB-D Sensor,D School Of Computer Wuhan University China College Of Information Engineering Northwest A&F University China Jd.Com
+A Two-Step Disentanglement Method,Tel Aviv University Facebook Ai Research And Tel Aviv University Tel Aviv University
+Adversarial Complementary Learning for Weakly Supervised Object Localization,Cai University Of Technology Sydney University Of Illinois Urbana-Champaign National University Of Singapore
+PieAPP: Perceptual Image-Error Assessment Through Pairwise Preference,Mosto University Of California Santa Barbara
+Deformable Shape Completion With Graph Convolutional Autoencoders,    Tel Aviv University Google Research Technion Usi Lugano
+SurfConv: Bridging 3D and 2D Convolution for RGBD Images,D D University Of Toronto Vector Institute Uber Atg 
+Image Correction via Deep Reciprocating HDR Transformation,City University Of Hong Kong Dalian University Of Technology Tencent Ai Lab Https://Ybsong.Github.Io/Cvpr_Imgcorrect/Index (A) Input (B) Cape [] (C) Djf [] (D) Ls [] (E) Wvm [] (F) Smf [] (G) Drht (H) Ground Truth Figure : Results On An Underexposed Input. Existing Ldr Methods Have The Limitation In Recovering The Missing Details As Shown In (B)-(F). In Comparison We Recover The Missing Ldr Details In The Domain And Preserve Them Through Tone Mapping Producing A More Favorable Result As Shown In (G).
+Real-Time Seamless Single Shot 6D Object Pose Prediction,D Epfl Microsoft Research Epfl
+Memory Based Online Learning of Deep Representations From Video Streams,And Micc Media Integration And Communcation Center University Florence Italy 
+Fusing Crowd Density Maps and Visual Object Trackers for People Tracking in Crowd Scenes,   Department Of Computer Science City University Of Hong Kong; State Key Laboratory Of Robotics Shenyang Institute Of Automation Chinese Academy Of Sciences; University Of Chinese Academy Of Sciences 
+Efficient Diverse Ensemble for Discriminative Co-Tracking,Efcient Graduate School Of Informatics Kyoto University Yoshida-Honmachi Kyoto Japan
+Empirical Study of the Topology and Geometry of Deep Networks,
+Modeling Facial Geometry Using Compositional VAEs,Ecole Polytechnique Federale De Lausanne Facebook Reality Labs Pittsburgh
+Baseline Desensitizing in Translation Averaging,National University Of Singapore
+Learning From Millions of 3D Scans for Large-Scale 3D Face Recognition,D D Computer Science And Software Engineering The University Western Australia
+Multi-Evidence Filtering and Fusion for Multi-Label Classification Object Detection and Semantic Segmentation Based on Weakly Supervised Learning,Classication Department Of Computer Science The University Of Hong Kong
+LEGO: Learning Edge With Geometry All at Once by Watching Videos,University Of Southern California Baidu Research National Engineering Laboratory For Deep Technology And Applications
+Exploring Disentangled Feature Representation Beyond Face Identification,Identication Cuhk-Sensetime Joint Lab The Chinese University Of Hong Kong Sensetime Group Limited
+Data Distillation: Towards Omni-Supervised Learning,Facebook Ai Research (Fair)
+DeLS-3D: Deep Localization and Segmentation With a 3D Semantic Map,Dels-D: D Baidu Research National Engineering Laboratory For Learning Technology Applications 
+Defense Against Universal Adversarial Perturbations,Akhtar* Liu* *The Authors Contributed Equally To This Work. Computer Science And Software Engineering The University Of Western Australia
+Spline Error Weighting for Robust Visual-Inertial Fusion,And Linkoping University Linkoping Sweden
+Disentangling Factors of Variation by Mixing Them,University Bern Switzerland University Maryland Usa 
+MoNet: Moments Embedding Network,Electrical And Computer Engineering Northeastern University Boston Ma Us Information Sciences Institute Usc Ca Us 
+Multi-Image Semantic Matching by Mining Consistent Features,State Key Lab Of Cad&Cg Zhejiang University Grasp Laboratory University Of Pennsylvania Figure : Given Initial Feature Candidates In Multiple Images And Their Noisy Correspondences Between Each Pair Of Images The Proposed Method Identies A Sparse Set Of Reliable Feature Points And Establishes Cyclically And Geometrically Correspondences Across All Images. The Gure Gives An Example Of Identied Points (Colored Crosses) From Cat Head Images (Only Images Are Shown Here). The Color Indicates The Correspondence. The Last Column Shows Initial Feature Candidates (Top) And Manually-Annotated Landmarks Provided The Dataset (Bottom) Both In The Rst Image. Interestingly The Unsupervisedly-Identied Feature Points The Proposed Method Roughly Coincide With The Manually-Annotated Landmarks.
+Feature Generating Networks for Zero-Shot Learning, Max Planck Institute Informatics Amsterdam Machine Lab Saarland Informatics Campus University Of Amsterdam
+Human Semantic Parsing for Person Re-Identification,Re-Identication Kalayeh* Basaran* Center Research In Computer Vision University Of Central Florida Dept. Of Computer Engineering Istanbul Technical University Dept. Of Computer Engineering Mef University
+Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning,Re-Identication    Sustech-Uts Joint Centre Of Cis Southern China University Of Science And Technology University Of Technology Sydney University Of Sydney
+Lightweight Probabilistic Deep Networks,Department Of Computer Science Tu Darmstadt
+DenseASPP for Semantic Segmentation in Street Scenes,Deepmotion 
+Learning TimeMemory-Efficient Deep Architectures With Budgeted Super Networks,Time/Memory-Efcient Veniat* And Denoyer* *Sorbonne Universite Lip F- Paris France Criteo Research 
+GeoNet: Unsupervised Learning of Dense Depth Optical Flow and Camera Pose,Sensetime Research 
+A Bi-Directional Message Passing Model for Salient Object Detection,Dalian University Of Technology China Naval Aviation University China Alibaba Ailabs China 
+Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification,Classication Beijing Lab Of Intelligent Information Technology School Of Computer Science Beijing Institute Of Technology China Department Of Computer Science Statistics University Of California Los Angeles Usa
+Finding Tiny Faces in the Wild With Generative Adversarial Network,  Visual Computing Center King Abdullah University Of Science And Technology (Kaust) School Of Electrical Engineering And Automation Harbin Institute Of Technology (Hit) Institute Of Software Chinese Academy Of Sciences (Cas) 
+Revisiting Video Saliency: A Large-Scale Benchmark and a New Model,    Beijing Lab Of Intelligent Information Technology School Of Computer Science Beijing Institute Of Technology China Ccce Nankai University China Department Of Computer Science University Of Central Florida Usa 
+Residual Dense Network for Image Super-Resolution, Department Of Electrical And Computer Engineering Northeastern University Boston Usa Department Of Computer Science University Of Rochester Rochester Usa College Of Computer And Information Science Northeastern University Boston Usa
+Modulated Convolutional Networks,
+Two-Step Quantization for Low-Bit Neural Networks,        And   Institute Of Automation Chinese Academy Of Sciences Beijing China University Of Chinese Academy Of Sciences Beijing China Center Excellence In Brain Science And Intelligence Technology Cas Beijing China Alibaba Group Hangzhou China
+Generative Modeling Using the Sliced Wasserstein Distance,University Of Illinois Urbana-Champaign Snap Inc. Los Angeles University Of Illinois Urbana-Champaign
+Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features,Department Of Electronic Engineering Tsinghua University  Data-Csiro Australian National University
+OATM: Occlusion Aware Template Matching by Consensus Set Maximization,Weizmann Institute Of Science Northrop Grumman Ucla Vision Lab
+First-Person Hand Action Benchmark With RGB-D Videos and 3D Hand Pose Annotations,D Imperial College London
+Learning to See in the Dark,Uiuc Intel Labs Intel Labs Intel Labs (A) Camera Output With Iso  (B) Camera Output With Iso  (C) Our Result From Raw Data Of (A) Figure . Extreme Low-Light Imaging With A Convolutional Network. Indoor Environment. Illuminance At Camera Is < . Lux. Sony S Ii Sensor Is Exposed For / Second. (A) Image Produced By Camera With Iso . (B) Image Produced By Camera With Iso . Image Suffers From Noise And Color Bias. (C) Image Produced By Our Convolutional Network Applied Raw Sensor Data From (A).
+Detect-and-Track: Efficient Pose Estimation in Videos,Efcient  The Robotics Institute Carnegie Mellon University Facebook Dartmouth College Https://Rohitgirdhar.Github.Io/Detectandtrack
+CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise,Classier Microsoft Ai And Research
+Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization,Dalian University Technology
+Weakly Supervised Facial Action Unit Recognition Through Adversarial Training,University Of Science And Technology Of China Hefei Anhui China
+Domain Generalization With Adversarial Feature Learning,School Of Electrical And Electronic Engineering Nanyang Technological University Singapore School Of Computer Science And Engineering Nanyang Technological University Singapore Department Of Computer Science City University Of Hong Kong China
+A Biresolution Spectral Framework for Product Quantization,University Of Wisconsin-Whitewater University Of Wisconsin-Madison University Of Houston University Of Wisconsin-Madison
+Detect Globally Refine Locally: A Novel Approach to Saliency Detection,Rene Dalian University Of Technology Northeastern University China Tiwaki Co. Ltd University Of Central Florida Usa
+End-to-End Convolutional Semantic Embeddings,Microsoft Tencent University Of Rochester One Microsoft Way Redmond Wa Shenzhen China Rochester Ny
+Self-Supervised Learning of Geometrically Stable Features Through Probabilistic Introspection,   Visual Geometry Group Dept. Engineering Science University Oxford Computer Vision Group Naver Labs Europe
+Content-Sensitive Supervoxels via Uniform Tessellations on Video Manifolds,Tsinghua University China Cardiff University Uk
+Continuous Relaxation of MAP Inference: A Nonconvex Perspective, Centralesupelec Universite Paris-Saclay Inria Therapanacea 
+Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks,Department Of Computer Science City University Of Hong Kong Sensetime Research School Of Computer Science And Engineering Nanjing University Of Science And Technology Tencent Ai Lab Electrical Engineering And Computer Science University Of California Merced
+Variational Autoencoders for Deforming 3D Mesh Models,D   Beijing Key Laboratory Of Mobile Computing And Pervasive Device Institute Of Computing Technology Chinese Academy Of Sciences School Of Computer And Control Engineering University Of Chinese Academy Of Sciences School Of Computer Science & Informatics Cardiff University 
+Occlusion Aware Unsupervised Learning of Optical Flow, Baidu Research University Southern California National Engineering Laboratory For Deep Technology And Applications 
+Video Representation Learning Using Discriminative Pooling,     Data/Csiro Australian Centre For Robotic Vision The Australian National University Canberra Australia Merl Cambridge Ma
+GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints, Fujian Key Laboratory Of Sensing Computing For Smart City School Of Information Science Engineering Xiamen University  China School Of Computer Science Technology Harbin Institute Of Technology  China Tencent Youtu Lab Xiamen University  China
+Partial Transfer Learning With Selective Adversarial Networks,Kliss Moe; School Of Software Tsinghua University China National Engineering Laboratory For Big Data Software University Of California Berkeley Berkeley Ca Usa
+DA-GAN: Instance-Level Image Translation by Deep Attention Generative Adversarial Networks,And Computer Science And Engineering Suny At Buffalo Microsoft Research School Of Science And Engineering The Chinese University Of Hong Kong
+Mask-Guided Contrastive Attention Model for Person Re-Identification,Re-Identication Center Research On Intelligent Perception And Computing (Cripac)     National Laboratory Of Pattern Recognition (Nlpr) Center Excellence In Brain Science And Intelligence Technology (Cebsit) Institute Of Automation Chinese Academy Of Sciences (Casia) University Of Chinese Academy Of Sciences (Ucas) University Of Sydney 
+High-Speed Tracking With Multi-Kernel Correlation Filters, And National Lab Of Pattern Recognition Institute Of Automation Cas Beijing  China School Of Info. & Comm. Eng. Beijing University Of Posts And Telecommunications
+KIPPI: KInetic Polygonal Partitioning of Images,Inria Universite Cote Dazur
+Recognizing Human Actions as the Evolution of Pose Estimation Maps, School Electrical And Electronic Engineering Nanyang Technological University Singapore Department Cse Suny At Buffalo Buffalo Ny
+Real-Time Rotation-Invariant Face Detection With Progressive Calibration Networks,    Key Lab Of Intelligent Information Processing Of Chinese Academy Of Sciences (Cas) Institute Of Computing Technology Cas Beijing  China University Of Chinese Academy Of Sciences Beijing  China Cas Center For Excellence In Brain Science And Intelligence Technology 
+Fast End-to-End Trainable Guided Filter, Cripac & Nlpr Institute Of Automation Chinese Academy Of Sciences Beijing China University Of Chinese Academy Of Sciences Beijing China Cas Center For Excellence In Brain Science And Intelligence Technology Beijing China 
+Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal, Nanjing University Of Science Technology 
+Convolutional Neural Networks With Alternately Updated Clique,  Academy For Advanced Interdisciplinary Studies Peking University     Key Laboratory Of Machine Perception (Moe) School Of Eecs Peking University Cooperative Medianet Innovation Center Shanghai Jiao Tong University
+Geometry Aware Constrained Optimization Techniques for Deep Learning,And Australian National University Canberra Australia Data Csiro Canberra Australia 
+The Unreasonable Effectiveness of Deep Features as a Perceptual Metric,Uc Berkeley Openai Adobe Research 
+“Zero-Shot” Super-Resolution Using Deep Internal Learning,Zero-Shot Dept. Of Computer Science And Applied Math The Weizmann Institute Of Science Israel School Of Mathematics Institute For Advanced Study Princeton New Jersey Project Website: Http://Www.Wisdom.Weizmann.Ac.Il/Vision/Zssr/
+Temporal Hallucinating for Action Recognition With Few Still Images,  Shenzhen Institutes Of Advanced Technology Chinese Academy Of Sciences China The Chinese University Of Hong Kong Sensetime Group Limited
+Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition,D  College Of Computer Science Sichuan University Department Of Computer Science Engineering Michigan State University
+3D Object Detection With Latent Support Surfaces,D Brown University University Of California Irvine
+Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer,Neighbors Searching Based On K Eypoints Similarity Dataset . . . Image With Keypoints Morphological Constraints Part-Level Prior K Nowledge
+Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation,Yonsei University
+A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds,Technische Universitat Munchen Germany Siemens Ag Munich Germany Framos Ag Munich Germany Johns Hopkins University Us Inria France
+Mean-Variance Loss for Deep Age Estimation From a Face,And Key Laboratory Of Intelligent Information Processing Of Chinese Academy Of Sciences (Cas) Institute Of Computing Technology Cas Beijing  China University Of Chinese Academy Of Sciences Beijing  China Cas Center Excellence In Brain Science And Intelligence Technology
+Image Super-Resolution via Dual-State Recurrent Networks,University Of Illinois At Urbana-Champaign Ibm Research 
+Ring Loss: Convex Feature Normalization for Face Recognition,And Department Of Electrical And Computer Engineering Carnegie Mellon University 
+Lions and Tigers and Bears: Capturing Non-Rigid 3D Articulated Shape From Images,D Zuf Imati-Cnr Milan Italy University Of California Berkeley Max Planck Institute For Intelligent Systems Tubingen Germany Figure : Animals Images. We Generate D Textured Models Of Animals Images. Starting An Initial Coarse Obtained With The Smal Model [] We Rene The Animal Multiple Uncalibrated Varying Poses Capture A Detailed Texture Map Multiple Frames. We Recover Detailed D Shapes For Animal Species That Are In The Smal Space (Like Tigers) Go Beyond Smal To Capture New Animals Like Bears.
+Super-Resolving Very Low-Resolution Face Images With Supplementary Attributes,Australian National University
+Dynamic Few-Shot Visual Learning Without Forgetting,University Paris-Est Ligm Ecole Des Ponts Paristech University Paris-Est Ligm Ecole Des Ponts Paristech
+Independently Recurrent Neural Network (IndRNN): Building a Longer and Deeper RNN,* * *  *School Of Computing Information Technology University Of Wollongong School Of Electronic Engineering University Of Electronic Science Technology Of China
+Document Enhancement Using Visibility Detection,Technion Haifa Israel Technion Haifa Israel Technion Haifa Israel Input []S Output Our Output Input (A) Text Image Binarization []S Output (B) Unshadowing Our Output Figure : Enhancement: Combining With State-Of-The-Art Algorithms For Processing Improves Performance. (A) Producing A Binary Image Of A Document Given A Gray-Level Stained One Reveals The Text Behind The Stain. (B) Removing Shadows From A Color Image Recovers The Original Colors.
+Generative Adversarial Learning Towards Fast Weakly Supervised Detection,Fujian Key Laboratory Of Sensing And Computing For Smart City School Of Information Science And Engineering Xiamen University Fujian China School Of Computer Science And Technology Harbin Institute Of Technology China Microsoft Redmond Usa Zsc
+Taskonomy: Disentangling Task Transfer Learning,Stanford University University Of California Berkeley Http://Taskonomy.Vision/
+Unsupervised Learning of Depth and Ego-Motion From Monocular Video Using 3D Geometric Constraints,D University Texas At Austin Google Brain Google Brain Google Brain
+Multi-Level Fusion Based 3D Object Detection From Monocular Images,D School Of Remote Sensing And Information Engineering Wuhan University China
+Density Adaptive Point Set Registration,Computer Vision Laboratory Department Of Electrical Engineering Linkoping University Sweden 
+Reconstructing Thin Structures of Manifold Surfaces by Integrating Spatial Curves,The Hong Kong University Science And Technology Altizure.Com
+Unifying Identification and Context Learning for Person Recognition,Identication Cuhk-Sensetime Joint Lab The Chinese University Of Hong Kong 
+Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation,Afnity Dgist Korea Postech Korea
+Fight Ill-Posedness With Ill-Posedness: Single-Shot Variational Depth Super-Resolution From Shading,Department Of Informatics Technical University Of Munich Germany
+Edit Probability for Scene Text Recognition,Shanghai Key Lab Of Intelligent Information Processing And School Of Computer Science Fudan University Shanghai  China Hikvision Research Institute China
+Person Re-Identification With Cascaded Pairwise Convolutions,Re-Identication  School Of Remote Sensing And Information Engineering Wuhan University China School Of Information Science And Technology University Of Science And Technology Of China China Alibaba Group China
+Style Aggregated Network for Facial Landmark Detection,University Of Technology Sydney The University Of Sydney
+DeepMVS: Learning Multi-View Stereopsis,University Of Illinois Urbana-Champaign Facebook Virginia Tech (A) Input (B) Deep Stereo (C) Sample Reconstruction Results Figure . (A) Our Network Takes A Set Of Images With Known Camera Poses And Calibration As Input; (B) We Produce A Set Of Plane-Sweep Volumes For A Reference View And Feed These Into A Convolutional Neural Network That Predicts A Disparity Map; (C) Our Network Produces High-Quality Disparity Maps Even For Challenging Cases Containing Poorly Textured Regions And Thin Structures.
+Deep Group-Shuffling Random Walk for Person Re-Identification,Group-Shufing Re-Identication Cuhk-Sensetime Joint Lab The Chinese University Of Hong Kong Sensetime Research 
+High-Order Tensor Regularization With Application to Attribute Ranking,University Of Bath Lancaster University Brown University
+Finding Beans in Burgers: Deep Semantic-Visual Embedding With Localization,Sorbonne Universite Paris France Technicolor Cesson Sevigne France 
+Learning 3D Shape Completion From Laser Scan Data With Weak Supervision,D Autonomous Vision Group Mpi For Intelligent Systems And University Of Tubingen Computer Vision And Multimodal Computing Max-Planck Institute For Informatics Saarbrucken Computer Vision And Geometry Group Eth Zurich
+Multi-Label Zero-Shot Learning With Structured Knowledge Graphs,  Department Of Electrical Engineering National Taiwan University Taipei Taiwan Machine Department Carnegie Mellon University Pittsburgh Usa
+Social GAN: Socially Acceptable Trajectories With Generative Adversarial Networks,Stanford University Ecole Polytechnique Federate De Lausanne
+Camera Style Adaptation for Person Re-Identification,Re-Identication Cognitive Science Department Xiamen University China Centre Articial Intelligence University Of Technology Sydney Australia
+Multimodal Visual Concept Learning With Weakly Supervised Techniques,And School Of E.C.E. National Technical University Of Athens Greece 
+Left-Right Comparative Recurrent Model for Stereo Matching,Tencent Ai Lab National University Of Singapore University Of British Columbia University Of Illinois Urbana-Champaign 
+Diversity Regularized Spatiotemporal Attention for Video-Based Person Re-Identification,Re-Identication Cuhk-Sensetime Joint Lab The Chinese University Of Hong Kong Argo Ai
+Teaching Categories to Human Learners With Visual Explanations,California Institute Of Technology
+Motion-Guided Cascaded Refinement Network for Video Object Segmentation,Renement Nanyang Technological University Alibaba Ai Labs 
+Learning Steerable Filters for Rotation Equivariant CNNs,Amlab / Quva Lab University Of Amsterdam Hci/Iwr University Of Heidelberg 
+Generative Image Inpainting With Contextual Attention,University Of Illinois At Urbana-Champaign Adobe Research Figure : Example Results Of Our Method On Images Of Natural Scene Face And Texture. Missing Regions Are Shown In White. In Each Pair The Left Is Input And Right Is The Direct Output Of Our Trained Neural Networks Without Any Post-Processing.
+Natural and Effective Obfuscation by Head Inpainting,Max Planck Institute For Informatics Saarland Informatics Campus Ku-Leuven/Psi Toyota Motor Europe (Trace) Eth Zurich 
+Feature Selective Networks for Object Detection,Microsoft Research Asia University Of Science And Technology Of China 
+PlaneNet: Piece-Wise Planar Reconstruction From a Single RGB Image,Washington University In St. Louis Adobe Research Argo Ai Simon Fraser University Figure : This Paper Proposes Deep Neural Architecture For Depthmap Image. Left To Right An Input Image Segmentation Reconstructed Depthmap And Texture-Mapped D Model.
+Camera Pose Estimation With Unknown Principal Point,Lund University Lund Sweden Fee Czech Technical University National Institute Of Informatics Prague Czech Republic Tokyo Japan
+Human Pose Estimation With Parsing Induced Learner,Department Of Electrical And Computer Engineering National University Of Singapore Singapore Department Of Electronic Engineering Tsinghua University Beijing China Qihoo Ai Institute Beijing China
